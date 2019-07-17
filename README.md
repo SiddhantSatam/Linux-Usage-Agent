@@ -1,5 +1,5 @@
 <h1 id="introduction">Introduction</h1>
-<p>Cluster Monitor Agent is an internal tool that monitors the cluster resources. It helps the infrastructure team to keep track of the hardware specifications and resource usages of a Linux cluster. It also helps to persist the data in an RDBMS databse</p>
+<p>Cluster Monitor Agent is an internal tool that monitors the cluster resources. It helps the infrastructure team to keep track of the hardware specifications and resource usages of a Linux cluster. It also helps to persist the data in an RDBMS database</p>
 <h1 id="architecture-and-design">Architecture and Design</h1>
 <p>Architecture:<br>
  
